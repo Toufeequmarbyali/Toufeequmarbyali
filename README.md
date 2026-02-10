@@ -15,4 +15,4 @@ Git, GitHub, VS Code,SQL
 🔹 Animal Rescue and Welfare System
 📫 Contact Me
 Email:toufeequmarbyali@gmail.com
-LinkedIn: (add your LinkedIn link)
+LinkedIn:https://www.linkedin.com/in/toufeeq-byali-bab630300?utm_source=share_via&utm_content=profile&utm_medium=member_android
