@@ -14,5 +14,5 @@ Git, GitHub, VS Code,SQL
 📌 Projects
 🔹 Animal Rescue and Welfare System
 📫 Contact Me
-Email: your-toufeequmarbyali@gmail.com
+Email:toufeequmarbyali@gmail.com
 LinkedIn: (add your LinkedIn link)
